@@ -252,7 +252,8 @@
   {
     "name": "Self Inflicted Achromatic Motion UPDATE 2017",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions41/collection/3_japanese_songs_4_self_inflicted_achr/self_inflicted_achro/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions41/collection/3_japanese_songs_4_self_inflicted_achr/self_inflicted_achro/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/98e4c9f3dfa44171.mp3"
   },
   {
     "name": "shake_it_by_kristiqn545 - ShakeIt_Miku",
@@ -511,7 +512,8 @@
     "name": "打排球和翻跟头 by 京桥刹那",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions41/collection/5_martial_arts_moves_by/_by_/main_2.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions41/collection/5_martial_arts_moves_by/_by_/camera_2.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions41/collection/5_martial_arts_moves_by/_by_/camera_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/092239bb1e0294ed.mp3"
   },
   {
     "name": "akarigayattekitazo",
@@ -1242,7 +1244,8 @@
     "name": "通常版 (5+6)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_happytap/_5_6_/main_2.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_happytap/_5_6_/partner_2.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_happytap/_5_6_/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "help me - 伊織",
@@ -1485,7 +1488,8 @@
   {
     "name": "Super Psycho Love",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_super_psycho_lov/super_psycho_love/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_super_psycho_lov/super_psycho_love/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/40482f3eefec9232.mp3"
   },
   {
     "name": "Sweets Timeモーション",
@@ -1509,7 +1513,8 @@
     "name": "Turn Off The Light モーション  24269288 - 目線_1",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/main_4.vmd",
-    "expressionMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/expression.vmd"
+    "expressionMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_turn_off_the_lig/turn_off_the_light_2/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/c6451fccb695ff87.mp3"
   },
   {
     "name": "warrior Motio1n",
@@ -1611,7 +1616,8 @@
   {
     "name": "こころのたまご",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018/_/main_11.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018/_/main_11.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/ab2cf07c490d3ab1.mp3"
   },
   {
     "name": "なりすましゲンガーかめら - なりすましゲンガーかめら2",
@@ -1638,7 +1644,8 @@
   {
     "name": "ゆめゆめ - ゆめゆめモーション(リップなし)",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018/_/main_28.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018/_/main_28.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/981669872ef9935e.mp3"
   },
   {
     "name": "アイネクライネ",
@@ -1751,13 +1758,15 @@
     "name": "3人用 (3+3)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_3/3_3_3_/main.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_3/3_3_3_/partner.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_3/3_3_3_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/e2a49dc83d59fa4a.mp3"
   },
   {
     "name": "4人用 - MIKU",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_4/4_miku/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_4/4_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018_4/4_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/e2a49dc83d59fa4a.mp3"
   },
   {
     "name": "ミュージックミュージック 表情配布 (13+14)",
@@ -1956,7 +1965,8 @@
   {
     "name": "薛定谔的小猫 - おまけのVi○aっぽい",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018/_vi_a_/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions41/collection/8_old_stuff_2016_2018/_vi_a_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/de50b6b9a73af2e0.mp3"
   },
   {
     "name": "虎視眈々モーションセット - 虎視眈々リップシンク英語詞",
